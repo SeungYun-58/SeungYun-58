@@ -1,3 +1,1 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to&fontSize=90&animation=fadeIn&fontAlignY=38&desc=HeoSeungYun%20Github!&descAlignY=51&descAlign=72"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+HeoSeungYun+Github" alt="Typing SVG" /></a>
